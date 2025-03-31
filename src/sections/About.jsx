@@ -24,9 +24,7 @@ const About = () => {
                         <div>
                             <p className='grid-headtext'>Hi, I'm Huy</p>
                             <p className='grid-subtext'>
-                                I'm a Frontend Developer passionate about JavaScript and TypeScript.
-                                While I’m still gaining experience, I’ve built personal projects
-                                and love creating interactive web experiences.
+                                I’m a Frontend Developer specializing in JavaScript and TypeScript, with a strong focus on building modern, responsive, and dynamic web applications using React and Next.js. I'm eager to contribute my skills in a professional environment and continuously grow as a developer.
                             </p>
                         </div>
                     </div>
@@ -38,7 +36,7 @@ const About = () => {
                         <div>
                             <p className='grid-headtext'>Tech Stack</p>
                             <p className='grid-subtext'>
-                                I specialize in JavaScript/TypeScript with a focus on React and Next.js ecosystems.
+                                I have hands-on experience with JavaScript, TypeScript, React, and Next.js, along with Tailwind CSS for building sleek and efficient UI. I enjoy optimizing performance and enhancing user experience through clean, reusable code.
                             </p>
                         </div>
                     </div>
@@ -65,7 +63,7 @@ const About = () => {
                                 I work remotely across most timezones.
                             </p>
                             <p className='grid-subtext'>
-                                I'm open to working remotely or onsite worldwide.
+                                I’m currently looking for frontend developer opportunities, both remote and onsite. Let’s connect!
                             </p>
                             <Button name='Contact Me' isBeam containerClass='w-full mt-10'/>
                         </div>
